@@ -21,8 +21,8 @@
 #ifndef LOG4QT_LEVELMATCHFILTER_H
 #define LOG4QT_LEVELMATCHFILTER_H
 
-#include "log4qt/spi/filter.h"
-#include "log4qt/level.h"
+#include "../spi/filter.h"
+#include "../level.h"
 
 namespace Log4Qt
 {
