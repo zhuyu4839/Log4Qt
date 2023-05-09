@@ -21,7 +21,7 @@
 #ifndef LOG4QT_NULLAPPENDER_H
 #define LOG4QT_NULLAPPENDER_H
 
-#include "log4qt/appenderskeleton.h"
+#include "../appenderskeleton.h"
 
 namespace Log4Qt
 {
