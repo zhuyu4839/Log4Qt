@@ -21,7 +21,7 @@
 #ifndef LOG4QT_DEBUGAPPENDER_H
 #define LOG4QT_DEBUGAPPENDER_H
 
-#include "log4qt/appenderskeleton.h"
+#include "../appenderskeleton.h"
 
 namespace Log4Qt
 {
