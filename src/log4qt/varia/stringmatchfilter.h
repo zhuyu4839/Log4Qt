@@ -21,7 +21,7 @@
 #ifndef LOG4QT_STRINGMATCHFILTER_H
 #define LOG4QT_STRINGMATCHFILTER_H
 
-#include "log4qt/spi/filter.h"
+#include "../spi/filter.h"
 
 namespace Log4Qt
 {
