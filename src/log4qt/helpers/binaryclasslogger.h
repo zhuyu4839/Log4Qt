@@ -21,7 +21,7 @@
 #ifndef LOG4QT_BINARYCLASSLOGGER_H
 #define LOG4QT_BINARYCLASSLOGGER_H
 
-#include "log4qt/log4qtshared.h"
+#include "../log4qtshared.h"
 
 #include <QAtomicPointer>
 
