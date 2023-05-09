@@ -21,7 +21,7 @@
 #ifndef LOG4QT_HELPERS_FACTORY_H
 #define LOG4QT_HELPERS_FACTORY_H
 
-#include "log4qt/log4qtshared.h"
+#include "../log4qtshared.h"
 
 #include <QHash>
 #include <QMutex>
